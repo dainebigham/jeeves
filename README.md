@@ -1,1 +1,3 @@
-# jeeves
+# Jeeves - the CLI Assistant
+
+Jeeves is a an all round office assistant and genuine guy. He has the answers to all your burning questions, and, one day, maybe more...
